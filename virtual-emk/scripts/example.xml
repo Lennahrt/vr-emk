@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rpc-reply message-id="urn:uuid:2df26364-d262-11e6-aec5-005056b12968">
+<chassis-inventory>
+<chassis style="inventory">
+<name>Chassis</name>
+<serial-number>GA123123123</serial-number>
+<description>EX3300-48T</description>
+<chassis-module>
+<name>Routing Engine 0</name>
+<version>REV 17</version>
+<part-number>750-123123</part-number>
+<serial-number>GA123123123</serial-number>
+<description>EX3300 48-Port</description>
+<clei-code>CMM123123</clei-code>
+<model-number>EX3300-48T</model-number>
+</chassis-module>
+<chassis-module>
+<name>FPC 0</name>
+<version>REV 17</version>
+<part-number>750-123123</part-number>
+<serial-number>GA02123123</serial-number>
+<description>EX3300 48-Port</description>
+<clei-code>CMMPJ123123</clei-code>
+<model-number>EX3300-48T</model-number>
+<chassis-sub-module>
+<name>CPU</name>
+<part-number>BUILTIN</part-number>
+<serial-number>BUILTIN</serial-number>
+<description>FPC CPU</description>
+</chassis-sub-module>
+<chassis-sub-module>
+<name>PIC 0</name>
+<part-number>BUILTIN</part-number>
+<serial-number>BUILTIN</serial-number>
+<description>48x 10/100/1000 Base-T</description>
+<clei-code>CMMPJ10123</clei-code>
+<model-number>EX3300-48T</model-number>
+</chassis-sub-module>
+<chassis-sub-module>
+<name>PIC 1</name>
+<version>REV 17</version>
+<part-number>750-123123</part-number>
+<serial-number>GA0215500273</serial-number>
+<description>4x GE/XE SFP+</description>
+<clei-code>CMMPJ10ERB</clei-code>
+<model-number>EX3300-48T</model-number>
+<chassis-sub-sub-module>
+<name>Xcvr 3</name>
+<version>REV 02</version>
+<part-number>740-123123123</part-number>
+<serial-number>AM123123123</serial-number>
+<description>NON-JNPR</description>
+</chassis-sub-sub-module>
+</chassis-sub-module>
+</chassis-module>
+<chassis-module>
+<name>Power Supply 0</name>
+<description>PS 100W AC</description>
+</chassis-module>
+<chassis-module>
+<name>Fan Tray</name>
+<description>Fan Tray</description>
+</chassis-module>
+</chassis>
+</chassis-inventory>
+</rpc-reply>
